@@ -1,36 +1,40 @@
 /**
 * @name ComfyGray
-* @version 1.0
+* @version 1.1
 * @author carrot#8812
 * @description A theme with a nice shade of gray everywhere! Its super comfy.
-* @source not-set
+* @source https://github.com/ObjectiveSlayer/ComfyGray
 * @invite not-set
 */
 
 
-/* MAIN CSS STYLESHEET... DO NOT REMOVE THIS!! */
+/* Main CSS Style. >> Removing this will break the Theme! << */
+
 @import url(https://objectiveslayer.github.io/ComfyGray/ComfyGray.css);
 
 
 
 
-/* all the addon imports(YOU CAN REMOVE ANY OF THEM IF YOU DONT LIKE THEM) */
+/* All the addon imports (Comment out or striaght up remove them to disable) */
 
 
-/* icon change import by Obscure.#4719 */
+/* Icon change import by Obscure.#4719 */
 @import url(https://objectiveslayer.github.io/ComfyGray/addons/icon%20replace%20by%20Obscure.%234719.css);
 
-/* radial status by Gibbu#1211 */
+/* Radial Status by Gibbu#1211 */
 @import url(https://objectiveslayer.github.io/ComfyGray/addons/radial%20status%20icons%20by%20Gibbu%231211.css);
 
-/* server rings */
+/* server Rings */
 @import url(https://objectiveslayer.github.io/ComfyGray/addons/server-rings.css);
 
-/* home icon */
+/* Home Icon */
 @import url(https://objectiveslayer.github.io/ComfyGray/addons/homeicon.css);
 
-/* border roles(makes the text and border the same color as the role color) */
+/* Border Roles (makes the text and border the same color as the role color) */
 @import url(https://objectiveslayer.github.io/ComfyGray/addons/roles.css);
+
+/* Adds the Settings Modal to make certain uis like Settings, Boosting Gui and more customisable */
+@import url(https://objectiveslayer.github.io/ComfyGray/addons/SettingsModal.css);
 
 /* floating server list, Remove the comment if you want it
 @import url(https://objectiveslayer.github.io/ComfyGray/addons/floating%20guild%20list.css);
