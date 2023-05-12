@@ -566,6 +566,9 @@
 	display: none;
 }
 
+.channelTextAreaDisabled-1p2fQv + .typing-2J1mQU {
+	display: none;
+}
 
 /* bubble messages */
 .cozyMessage-1DWF9U .contents-2MsGLg>.markup-eYLPri:not(:empty) {
