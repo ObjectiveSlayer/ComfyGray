@@ -2233,10 +2233,6 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 	left: 50%;
 }
 
-.banner-1YaD3N {
-	position: relative;
-}
-
 .headerTop-3GPUSF {
 	text-align: center;
 	position: relative;
@@ -2330,7 +2326,7 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 .userPopout-2j1gM4 .banner-1YaD3N:after,
 #account .banner-1YaD3N:after {
 	content: "";
-	position: absolute;
+	position: relative;
 	bottom: 0;
 	left: 0;
 	pointer-events: none;
